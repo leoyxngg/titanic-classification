@@ -6,6 +6,8 @@ FEATURES = [
     "Sex",
     "Age",
     "Fare",
+    "SibSp", 
+    "Parch",
     "Embarked",
     "FamilySize",
     "IsAlone",
